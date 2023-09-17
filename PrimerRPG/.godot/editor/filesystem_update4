@@ -1,0 +1,5 @@
+res://Scenes/world.tscn
+res://Scenes/player.tscn
+res://Scripts/Camera2D.gd
+res://Scenes/enemy_slime.tscn
+res://Scripts/enemy_slime.gd
